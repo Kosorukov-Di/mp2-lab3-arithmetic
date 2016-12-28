@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arithm", "arithm\arithm.vcxproj", "{CFBAB5B4-8CCA-42B5-8D08-466DFD69136D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "samples", "..\samples\samples.vcxproj", "{9FF4FEF3-A553-40FA-8DB1-958C47A59077}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gtest", "..\gtest\gtest.vcxproj", "{B2DD4C29-90A5-47FE-A5BC-16C577D162EA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "..\test\test.vcxproj", "{3241204B-AAAC-47EF-A810-C14F715A2C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBAB5B4-8CCA-42B5-8D08-466DFD69136D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFBAB5B4-8CCA-42B5-8D08-466DFD69136D}.Debug|Win32.Build.0 = Debug|Win32
+		{CFBAB5B4-8CCA-42B5-8D08-466DFD69136D}.Release|Win32.ActiveCfg = Release|Win32
+		{CFBAB5B4-8CCA-42B5-8D08-466DFD69136D}.Release|Win32.Build.0 = Release|Win32
+		{9FF4FEF3-A553-40FA-8DB1-958C47A59077}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FF4FEF3-A553-40FA-8DB1-958C47A59077}.Debug|Win32.Build.0 = Debug|Win32
+		{9FF4FEF3-A553-40FA-8DB1-958C47A59077}.Release|Win32.ActiveCfg = Release|Win32
+		{9FF4FEF3-A553-40FA-8DB1-958C47A59077}.Release|Win32.Build.0 = Release|Win32
+		{B2DD4C29-90A5-47FE-A5BC-16C577D162EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2DD4C29-90A5-47FE-A5BC-16C577D162EA}.Debug|Win32.Build.0 = Debug|Win32
+		{B2DD4C29-90A5-47FE-A5BC-16C577D162EA}.Release|Win32.ActiveCfg = Release|Win32
+		{B2DD4C29-90A5-47FE-A5BC-16C577D162EA}.Release|Win32.Build.0 = Release|Win32
+		{3241204B-AAAC-47EF-A810-C14F715A2C7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3241204B-AAAC-47EF-A810-C14F715A2C7C}.Debug|Win32.Build.0 = Debug|Win32
+		{3241204B-AAAC-47EF-A810-C14F715A2C7C}.Release|Win32.ActiveCfg = Release|Win32
+		{3241204B-AAAC-47EF-A810-C14F715A2C7C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
